@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://www.codewars.com/users/Viktorija%20Surginevica/badges/large
+[![Codwears badge](https://www.codewars.com/users/Viktorija%20Surginevica/badges/large)](https://www.codewars.com/users/Viktorija%20Surginevica)
+
